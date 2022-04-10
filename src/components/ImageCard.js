@@ -6,7 +6,7 @@ import CardContent from '@material-ui/core/CardContent';
 import CardMedia from '@material-ui/core/CardMedia';
 import Typography from '@material-ui/core/Typography';
 import { Collapse } from '@material-ui/core';
-import PlaceToVisit from './PlaceToVisit';
+// import PlaceToVisit from './PlaceToVisit';
 
 const useStyles = makeStyles({
   root: {

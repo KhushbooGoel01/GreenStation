@@ -12,7 +12,7 @@ const places = [
     description:
       'Shaped like a giant sombrero, this lush volcanic island stars in countless South Pacific fantasies. The focal point and best asset of this tropical beauty is its ravishing lagoon in technicolor turquoise. Fish, turtles, sharks, and rays swim in the clear waters.',
     imageUrl: process.env.PUBLIC_URL + '/assets/cy6.png',
-    Url: 'https://www.google.com/maps?q=petrol+pumps+near+me' ,
+    Url: 'https://www.google.com/maps/search/green+stations+near+me' ,
     time: 1500,
   },
 ];

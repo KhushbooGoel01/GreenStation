@@ -16,6 +16,13 @@ const useStyles = makeStyles((theme) => ({
   appbar: {
     background: 'none',
   },
+
+  btn : {
+    backgroundColor:'green',
+    color: 'white',
+    outline:'none',
+  },
+
   appbarWrapper: {
     width: '80%',
     margin: '0 auto',
@@ -53,11 +60,12 @@ export default function Header() {
       <AppBar className={classes.appbar} elevation={0}>
         <Toolbar className={classes.appbarWrapper}>
           <h1 className={classes.appbarTitle}>
-            Green<span className={classes.colorText}>Stations</span>
+            Green<span className={classes.colorText}>Station</span>
           </h1>
-          <IconButton>
+          <button className= {classes.btn} > Login </button>
+          {/* <IconButton>
             <SortIcon className={classes.icon} />
-          </IconButton>
+          </IconButton> */}
         </Toolbar>
       </AppBar>
 
