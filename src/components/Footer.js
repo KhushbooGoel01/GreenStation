@@ -55,7 +55,7 @@ export default function Header() {
 //   }, []);
   return (
     <div className={classes.footer} id="footer">
-     Made with 💙 by Team Titans
+     Made with LOVE by Team Titans
     </div>
   );
 }
