@@ -62,7 +62,9 @@ export default function Header() {
           <h1 className={classes.appbarTitle}>
             Green<span className={classes.colorText}>Station</span>
           </h1>
-          <button className= {classes.btn} > Login </button>
+          < a href="./public/auth.html">
+
+          <button className= {classes.btn} > Login </button> </a>
           {/* <IconButton>
             <SortIcon className={classes.icon} />
           </IconButton> */}
