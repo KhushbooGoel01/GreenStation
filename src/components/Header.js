@@ -18,8 +18,8 @@ const useStyles = makeStyles((theme) => ({
   },
 
   btn : {
-    backgroundColor:'green',
-    color: 'white',
+    backgroundColor:'#5AFF3D',
+    color: 'black',
     outline:'none',
   },
 

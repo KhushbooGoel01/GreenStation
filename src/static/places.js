@@ -2,7 +2,7 @@ const places = [
   {
     title: 'Apply for Green Station Installment',
     description:
-      "The Maldives are home to some of the world's most ravishing islands, but it's the sea, which truly makes these islands shine. Luminous aquamarine waters with a crystal clarity lap upon these dazzling white shores, which barely peek above the Indian Ocean.",
+      `A GreenStation is solar powered EV charging station. We distribute our solar panels to people at an incentivized rate with a condition that you will have to make a solar powered GreenStation near you. Click me to know more :) `,
     imageUrl: process.env.PUBLIC_URL + '/assets/cy4.jpg',
     Url: 'https://forms.gle/DevA2wka3aSkRCiH6',
     time: 1500,
@@ -10,7 +10,7 @@ const places = [
   {
     title: 'Find Nearest Green Station',
     description:
-      'Shaped like a giant sombrero, this lush volcanic island stars in countless South Pacific fantasies. The focal point and best asset of this tropical beauty is its ravishing lagoon in technicolor turquoise. Fish, turtles, sharks, and rays swim in the clear waters.',
+      'Find the nearest Green charging station for your electric vehicle. Just click on the map and book your slot right now at affordable prices :)',
     imageUrl: process.env.PUBLIC_URL + '/assets/cy6.png',
     Url: 'https://www.google.com/maps/search/green+stations+near+me' ,
     time: 1500,
